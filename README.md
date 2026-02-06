@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Amine%20Sebti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/amine9909"   >
+    git hub
   </a>
 </p>
 
