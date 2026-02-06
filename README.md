@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/amine-sebti-094546280/">
     <img src="https://img.shields.io/badge/LinkedIn-Amine%20Sebti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/amine9909"   >
-    git hub
+  <a href="https://github.com/amine9909">
+    <img src="https://img.shields.io/badge/GitHub-amine9909-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
